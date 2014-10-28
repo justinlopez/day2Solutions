@@ -1,0 +1,2 @@
+C:\Users\Technologist\Documents\GitHub\day2Solutions\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Technologist\Documents\GitHub\day2Solutions\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
